@@ -1,2 +1,2 @@
 # psddesign
-it includes design for psd
+it includes design for photoshop psd and images form.
